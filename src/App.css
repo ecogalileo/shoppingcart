@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+/* body {
+  background-color: gray;
+} */
+
+footer {
+  background: #0c1b29;
+  min-height: 100px;
+  width: 100%;
+  overflow: hidden;
+  font-size: 14px;
+  color: white;
+  position: relative;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
+
+footer a,
+footer a:visited {
+  color: #fff;
+}
+
+footer a:hover,
+footer a:focus {
+  color: #fff;
+}
+
+.social-icons {
+  margin-top: 50px;
+  font-size: 22px;
+}
+
